@@ -60,3 +60,10 @@ save_dir: "./checkpoints"
 Step 4. Evaluate
 
 python evaluate.py --checkpoint ./checkpoints/final_model.pt
+
+## 🔗 Project Links
+
+- [GitHub Repo](https://github.com/RushiSalunke/ThinkFirst-Gemma)
+- [Kaggle Demo](https://www.kaggle.com/rushisalunkeeeee/thinkfirst-gemma-demo)
+https://huggingface.co/RushiSalunke/ThinkFirst-Gemma
+- [YouTube Video](https://youtu.be/PY9s7x9ZumM?si=3TT4wfJ4ot-k2Sbj)
